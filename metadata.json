@@ -1,0 +1,8 @@
+{
+  "name": "FitGenius AI",
+  "description": "Your futuristic, AI-powered personal fashion stylist. Upload your photo for personalized outfit recommendations and visual previews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
